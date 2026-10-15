@@ -8,7 +8,8 @@ Aplicação React para descobrir filmes em exibição, consultar detalhes e cria
 
 ## Vídeo de demonstração
 
-https://github.com/user-attachments/assets/4081b870-cbfe-4141-afb7-47de403f0ca5
+
+https://github.com/user-attachments/assets/d83dca99-96d9-45a9-9270-0e6f1b3d2fee
 
 
 ## Funcionalidades
