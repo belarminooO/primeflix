@@ -6,10 +6,14 @@ Aplicação React para descobrir filmes em exibição, consultar detalhes e cria
   <img src="./docs/media/preview.png" alt="Pré-visualização do PrimeFlix" width="900" />
 </a>
 
+---
+
 ## Vídeo de demonstração
 
 [▶ Abrir vídeo de demonstração](./docs/media/demo.mp4)
 
+
+---
 
 ## Funcionalidades
 
@@ -19,12 +23,16 @@ Aplicação React para descobrir filmes em exibição, consultar detalhes e cria
 - Guarda e remove filmes da lista pessoal através de `localStorage`.
 - Mostra notificações de sucesso e de itens repetidos.
 
+---
+
 ## O que aprofundei
 
 - Gestão de estado e ciclo de vida de componentes com `useState` e `useEffect`.
 - Navegação entre páginas e leitura de parâmetros de rota com React Router.
 - Consumo assíncrono da API do TMDB com Axios, incluindo estados de carregamento e erro.
 - Persistência de favoritos no `localStorage`, notificações e configuração segura de variáveis de ambiente.
+
+---
 
 ## Tecnologias
 
@@ -37,12 +45,16 @@ Aplicação React para descobrir filmes em exibição, consultar detalhes e cria
   <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&amp;logo=themoviedatabase&amp;logoColor=white" alt="TMDB API" />
 </div>
 
+---
+
 ## Como executar
 
 ```bash
 npm install
 npm run dev
 ```
+
+---
 
 ## Scripts
 
@@ -51,3 +63,18 @@ npm run dev
 npm run build
 npm run lint
 ```
+
+---
+
+## Contacto
+
+<a href="https://www.linkedin.com/in/belarmino-sacate-1b830037b/">
+  <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  LinkedIn Profile
+</a>
+<br>
+<br>
+<a href="mailto:belarmino.s.bs@gmail.com">
+  <img align="center" alt="Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+  belarmino.s.bs@gmail.com
+</a>
